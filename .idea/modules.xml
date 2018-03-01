@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TestyGiveMev.iml" filepath="$PROJECT_DIR$/TestyGiveMev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dev.iml" filepath="$PROJECT_DIR$/Dev.iml" />
+      <module fileurl="file://D:\REDproject\Dev\TestyGiveMev.iml" filepath="D:\REDproject\Dev\TestyGiveMev.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\REDproject\Dev\app\app.iml" filepath="D:\REDproject\Dev\app\app.iml" />
     </modules>
   </component>
 </project>
